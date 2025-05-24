@@ -65,7 +65,7 @@
   ```json
   "body":{
       "question_id":"stringid",
-      "duration":"int[seconds]"
+      "time_spent_on_question":"int[seconds]"
   }
   ```
 
